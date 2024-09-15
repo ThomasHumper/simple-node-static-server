@@ -1,0 +1,12 @@
+{
+  "name": "simple-node-static-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Humper",
+  "license": "MIT",
+  "description": "A basic Node.js server for serving static files such as HTML, CSS, and JavaScript. Perfect for learning how to create a simple web server without external dependencies. "
+}
